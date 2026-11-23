@@ -1,0 +1,1 @@
+-Karen Castillo:Lo que hice fue hacer las bases del codigo y completar mi parte de completar todo el codigo lineal 
